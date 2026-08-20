@@ -1,280 +1,4 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="第 1 页" id="7ifVXDgN4LC0qCu506Rb">
-    <mxGraphModel dx="1990" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-53" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="265" width="646" x="85" y="745" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-37" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="190" width="641" x="85" y="525" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-35" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="190" width="630" x="90" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-34" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="140" width="630" x="90" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="UmspDm--xtdzK2RnA1kG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;strokeColor=none;" value="事件识别与事件属性" vertex="1">
-          <mxGeometry height="40" width="120" x="325" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="多尺度天气过程如何推动污染范围扩张" vertex="1">
-          <mxGeometry height="110" width="60" x="94" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="减排背景下，大范围臭氧污染为何反而增加" vertex="1">
-          <mxGeometry height="90" width="60" x="90" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="未来大范围臭氧污染风险如何变化" vertex="1">
-          <mxGeometry height="100" width="60" x="90" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="大范围臭氧污染有哪些基本属性" vertex="1">
-          <mxGeometry height="100" width="50" x="95" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-17" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="150.34482758620686" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="建立事件识别标准" vertex="1">
-          <mxGeometry height="40" width="120" x="303" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-18" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-20" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构建事件目录" vertex="1">
-          <mxGeometry height="40" width="120" x="435" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="持续时间" vertex="1">
-          <mxGeometry height="40" width="120" x="435" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-22" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="长期趋势" vertex="1">
-          <mxGeometry height="40" width="120" x="570" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="季节窗口" vertex="1">
-          <mxGeometry height="40" width="120" x="570" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-16" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="150.34482758620686" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="臭氧观测资料" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-11" parent="1" style="whiteSpace=wrap;html=1;glass=0;rounded=0;shadow=0;" value="事件属性" vertex="1">
-          <mxGeometry height="60" width="60" x="20" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-12" parent="1" style="whiteSpace=wrap;html=1;glass=0;rounded=0;shadow=0;" value="解释机制" vertex="1">
-          <mxGeometry height="60" width="60" x="20" y="340" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-13" parent="1" style="whiteSpace=wrap;html=1;glass=0;rounded=0;shadow=0;" value="历史归因" vertex="1">
-          <mxGeometry height="60" width="60" x="20" y="565" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-14" parent="1" style="whiteSpace=wrap;html=1;glass=0;rounded=0;shadow=0;" value="评估未来" vertex="1">
-          <mxGeometry height="60" width="60" x="20" y="820" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-18" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E4Ir1HM1FVtpIy-ycTy6-17" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-20" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="气象再分析资料" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-27" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WRF-Chem数值模式" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-31" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="客观天气分型" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-27" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="臭氧观测资料" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-30" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="污染事件生命周期" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;strokeColor=none;" value="空间组织与形成机制" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空间组织过程" vertex="1">
-          <mxGeometry height="40" width="120" x="445" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="气象要素差异" vertex="1">
-          <mxGeometry height="40" width="120" x="580" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-32" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="典型天气型/天气系统" vertex="1">
-          <mxGeometry height="40" width="120" x="445" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-28" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="典型污染事件" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-29" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="物理化学过程分析" vertex="1">
-          <mxGeometry height="40" width="120" x="445" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" value="敏感性试验" vertex="1">
-          <mxGeometry height="40" width="120" x="580" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="事件数据库与时间演变特征" vertex="1">
-          <mxGeometry height="90" width="70" x="740" y="115" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="空间组织路径与物理概念模型" vertex="1">
-          <mxGeometry height="90" width="70" x="740" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-38" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="天气分型结果" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-41" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="长期排放资料" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-39" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="天气型条件概率诊断" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="历史变化驱动归因" vertex="1">
-          <mxGeometry height="40" width="120" x="325" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="未来气象潜势与综合风险" vertex="1">
-          <mxGeometry height="40" width="140" x="325" y="730" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-42" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="早/晚期气象/排放矩阵试验" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="排放-气象-交互贡献证据链" vertex="1">
-          <mxGeometry height="90" width="70" x="740" y="575" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="未来气象潜势与综合风险图谱" vertex="1">
-          <mxGeometry height="90" width="70" x="750" y="832.5" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="气象年际变化" vertex="1">
-          <mxGeometry height="40" width="120" x="463" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-43" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="非对称减排" vertex="1">
-          <mxGeometry height="40" width="120" x="463" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="颗粒物-辐射效应" vertex="1">
-          <mxGeometry height="40" width="120" x="598" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NO滴定与敏感性转化" vertex="1">
-          <mxGeometry height="40" width="120" x="463" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-40" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="卫星FNR" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-45" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="气象再分析资料" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-46" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-47" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CMIP6多模式数据" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="850" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-48" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SSP情景数据" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-49" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="未来排放清单" vertex="1">
-          <mxGeometry height="40" width="120" x="180" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-51" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI事件潜势模型" vertex="1">
-          <mxGeometry height="40" width="120" x="340" y="820" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-52" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多情景矩阵模拟" vertex="1">
-          <mxGeometry height="40" width="120" x="340" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生成潜势变化" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="事件频率变化" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="季节窗口变化" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="950" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="持续时间变化" vertex="1">
-          <mxGeometry height="40" width="120" x="520" y="850" as="geometry" />
-        </mxCell>
-        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="210" width="140" x="510" y="790" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="en4NU3yEJVFzXS-jYDfv" name="第 2 页">
     <mxGraphModel dx="1990" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -477,6 +201,294 @@
         </mxCell>
         <mxCell id="xiyLIqlMgkYHxB2dxlbb-66" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页" id="lT4PGamfsy4K56JYTjRX">
+    <mxGraphModel dx="1706" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F7F9FC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-53" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7652A5;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F4FC;strokeColor=#B6A0CF;strokeWidth=1.5;arcSize=0;shadow=1;" value="" vertex="1">
+          <mxGeometry height="240" width="630" x="94" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-37" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#BD6A2E;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8F1;strokeColor=#D9AD82;strokeWidth=1.5;arcSize=0;shadow=1;" value="" vertex="1">
+          <mxGeometry height="180" width="630" x="94" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-35" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#26877B;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2FAF8;strokeColor=#8CC5BB;strokeWidth=1.5;arcSize=0;shadow=1;" value="" vertex="1">
+          <mxGeometry height="205" width="630" x="94" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-34" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2F65A7;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F8FD;strokeColor=#9CB9DB;strokeWidth=1.5;arcSize=0;shadow=1;" value="" vertex="1">
+          <mxGeometry height="130" width="630" x="94" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UmspDm--xtdzK2RnA1kG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="事件识别与事件属性" vertex="1">
+          <mxGeometry height="40" width="170" x="324" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#26877B;strokeColor=#1E6E64;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="多尺度天气过程如何推动污染范围扩张" vertex="1">
+          <mxGeometry height="205" width="60" x="93" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#BD6A2E;strokeColor=#9A5220;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="减排背景下，大范围臭氧污染为何反而增加" vertex="1">
+          <mxGeometry height="180" width="60" x="94" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#7652A5;strokeColor=#5F3F8A;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="未来大范围臭氧污染风险如何变化" vertex="1">
+          <mxGeometry height="240" width="60" x="94" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#2F65A7;strokeColor=#244F84;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="大范围臭氧污染有哪些基本属性" vertex="1">
+          <mxGeometry height="130" width="60" x="94" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LgjXGRGdSMG7juaXKOI5-1" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.3;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="建立事件识别标准" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-18" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-20" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.3;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="构建事件目录" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.3;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="持续时间" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-22" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.3;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="长期趋势" vertex="1">
+          <mxGeometry height="40" width="120" x="579" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.3;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="季节窗口" vertex="1">
+          <mxGeometry height="40" width="120" x="579" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LgjXGRGdSMG7juaXKOI5-2" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="臭氧观测资料" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="事件属性" vertex="1">
+          <mxGeometry height="60" width="60" x="20" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="解释机制" vertex="1">
+          <mxGeometry height="60" width="60" x="19" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="历史归因" vertex="1">
+          <mxGeometry height="60" width="60" x="20" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="评估未来" vertex="1">
+          <mxGeometry height="60" width="60" x="20" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-18" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E4Ir1HM1FVtpIy-ycTy6-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-20" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="气象再分析资料" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-27" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="WRF-Chem数值模式" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-31" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="客观天气分型" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-27" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="臭氧观测资料" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-30" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="污染事件生命周期" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="空间组织与形成机制" vertex="1">
+          <mxGeometry height="40" width="170" x="324" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="空间组织过程" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="气象要素差异" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-32" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="典型天气型/天气系统" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-28" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="典型污染事件" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-29" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="物理化学过程分析" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.3;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="敏感性试验" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#2F65A7;strokeColor=#244F84;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="事件数据库与时间演变特征" vertex="1">
+          <mxGeometry height="115" width="60" x="742" y="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#26877B;strokeColor=#1E6E64;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="空间组织路径与物理概念模型" vertex="1">
+          <mxGeometry height="115" width="60" x="742" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-38" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="天气分型结果" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-41" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="长期排放资料" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-39" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="天气型条件概率诊断" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="历史变化驱动归因" vertex="1">
+          <mxGeometry height="40" width="170" x="324" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="未来气象潜势与综合风险" vertex="1">
+          <mxGeometry height="40" width="170" x="324" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-42" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E4Ir1HM1FVtpIy-ycTy6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="早/晚期气象/排放矩阵试验" vertex="1">
+          <mxGeometry height="40" width="120" x="309" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#BD6A2E;strokeColor=#9A5220;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="排放-气象-交互贡献证据链" vertex="1">
+          <mxGeometry height="115" width="60" x="742" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#7652A5;strokeColor=#5F3F8A;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="未来气象潜势与综合风险图谱" vertex="1">
+          <mxGeometry height="115" width="60" x="742" y="812" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="气象年际变化" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-43" edge="1" parent="1" source="E4Ir1HM1FVtpIy-ycTy6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4Ir1HM1FVtpIy-ycTy6-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="非对称减排" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="颗粒物-辐射效应" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.3;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="NO滴定与敏感性转化" vertex="1">
+          <mxGeometry height="40" width="120" x="444" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-40" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="卫星FNR" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-45" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="气象再分析资料" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="LgjXGRGdSMG7juaXKOI5-9" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="845.7" />
+              <mxPoint x="320.5" y="845.7" />
+              <mxPoint x="320.5" y="820.01" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgjXGRGdSMG7juaXKOI5-10" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="853.47" />
+              <mxPoint x="320.5" y="853.47" />
+              <mxPoint x="320.5" y="900.01" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="CMIP6多模式数据" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-48" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="SSP情景数据" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-49" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#AAB7C4;strokeWidth=1.2;fontColor=#33495F;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" value="未来排放清单" vertex="1">
+          <mxGeometry height="40" width="120" x="174" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-51" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F1EAF8;strokeColor=#9B7FC0;strokeWidth=1.3;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="AI事件潜势模型" vertex="1">
+          <mxGeometry height="40" width="120" x="347" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-52" edge="1" parent="1" source="dBsWuJ58-PWKJ8RtYi_a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dBsWuJ58-PWKJ8RtYi_a-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F1EAF8;strokeColor=#9B7FC0;strokeWidth=1.3;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="多情景矩阵模拟" vertex="1">
+          <mxGeometry height="40" width="120" x="347" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1EAF8;strokeColor=#9B7FC0;strokeWidth=1.4;dashed=1;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="210" width="140" x="519" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FBF8FE;strokeColor=#9B7FC0;strokeWidth=1.2;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="生成潜势变化" vertex="1">
+          <mxGeometry height="40" width="120" x="529" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FBF8FE;strokeColor=#9B7FC0;strokeWidth=1.2;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="事件频率变化" vertex="1">
+          <mxGeometry height="40" width="120" x="529" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FBF8FE;strokeColor=#9B7FC0;strokeWidth=1.2;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="季节窗口变化" vertex="1">
+          <mxGeometry height="40" width="120" x="529" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="dBsWuJ58-PWKJ8RtYi_a-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FBF8FE;strokeColor=#9B7FC0;strokeWidth=1.2;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="持续时间变化" vertex="1">
+          <mxGeometry height="40" width="120" x="529" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
