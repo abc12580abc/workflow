@@ -1,210 +1,4 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram id="en4NU3yEJVFzXS-jYDfv" name="第 2 页">
-    <mxGraphModel dx="1990" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=31;fontStyle=1;fontColor=#16324F;" value="大范围臭氧污染：从事件识别到未来风险的技术路线" vertex="1">
-          <mxGeometry height="44" width="1400" x="585.1023101806641" y="301.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#66788A;" value="以事件对象为分析单元，贯通时空演变、形成机制、历史归因与未来情景" vertex="1">
-          <mxGeometry height="28" width="1200" x="685.1023101806641" y="343.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#AAB7C4;strokeWidth=1.5;arcSize=10;" value="" vertex="1">
-          <mxGeometry height="96" width="1440" x="565.1023101806641" y="385.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="多源数据与模型基础" vertex="1">
-          <mxGeometry height="58" width="190" x="585.1023101806641" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="监测网络&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;O₃ · NO₂ · PM₂.₅ · 气象站&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="210" x="800.1023101806641" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="再分析与天气系统&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;ERA5 / MERRA-2 · 环流场&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="210" x="1030.102310180664" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="排放与卫星约束&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;NOₓ / VOCs / PM · HCHO/NO₂&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="225" x="1260.102310180664" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="过程与输送模式&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;WRF-Chem · PA / SA · HYSPLIT&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="225" x="1505.102310180664" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="未来气候与排放情景&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;CMIP6 · SSP · 情景排放清单&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="235" x="1750.102310180664" y="404.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-10" parent="1" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fillColor=#DCE6F0;strokeColor=none;opacity=70;" value="" vertex="1">
-          <mxGeometry height="28" width="1320" x="625.1023101806641" y="485.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#49627A;" value="递进式科学主线　　描述事实　→　解释机制　→　辨识驱动　→　评估未来" vertex="1">
-          <mxGeometry height="26" width="1040" x="745.1023101806641" y="486.37501525878906" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F8FD;strokeColor=#9CB9DB;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
-          <mxGeometry height="640" width="350" x="495.10231018066406" y="515.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2FAF8;strokeColor=#8CC5BB;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
-          <mxGeometry height="640" width="350" x="895.1023101806641" y="515.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8F1;strokeColor=#D9AD82;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
-          <mxGeometry height="640" width="350" x="1295.102310180664" y="515.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F4FC;strokeColor=#B6A0CF;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
-          <mxGeometry height="640" width="350" x="1695.102310180664" y="515.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="01" vertex="1">
-          <mxGeometry height="54" width="54" x="515.1023101806641" y="533.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="02" vertex="1">
-          <mxGeometry height="54" width="54" x="915.1023101806641" y="533.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="03" vertex="1">
-          <mxGeometry height="54" width="54" x="1315.102310180664" y="533.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="04" vertex="1">
-          <mxGeometry height="54" width="54" x="1715.102310180664" y="533.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="事件识别与时空演变" vertex="1">
-          <mxGeometry height="52" width="268" x="557.1023101806641" y="534.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="空间组织与形成机制" vertex="1">
-          <mxGeometry height="52" width="268" x="957.1023101806641" y="534.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="减排背景下的历史归因" vertex="1">
-          <mxGeometry height="52" width="268" x="1357.102310180664" y="534.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="未来气象潜势与综合风险" vertex="1">
-          <mxGeometry height="52" width="268" x="1757.102310180664" y="534.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.5;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;如何客观识别大范围臭氧污染，并解释其频率、持续时间、覆盖范围、强度及季节窗口的变化？" vertex="1">
-          <mxGeometry height="102" width="310" x="515.1023101806641" y="611.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.5;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;分散的区域污染如何扩展、合并和连接？多尺度天气过程如何通过生成、边界层与输送推动尺度跃迁？" vertex="1">
-          <mxGeometry height="102" width="310" x="915.1023101806641" y="611.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.5;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;排放持续下降期间，大范围污染为何增加？气象、排放及其非线性交互分别贡献多少？" vertex="1">
-          <mxGeometry height="102" width="310" x="1315.102310180664" y="611.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1EAF8;strokeColor=#9B7FC0;strokeWidth=1.5;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;未来气候变化与排放演变将如何改变事件频率、主导路径、季节窗口和高风险区？" vertex="1">
-          <mxGeometry height="102" width="310" x="1715.102310180664" y="611.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;构建事件目录；解析时空演变、季节依赖和年际变化；比较污染日数、范围与持续时间是否协同变化。" vertex="1">
-          <mxGeometry height="104" width="310" x="515.1023101806641" y="729.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;重建生成—扩展—合并—消散过程；识别尺度跃迁前兆；检验共同生成、输送连接和生成—输送复合三类路径。" vertex="1">
-          <mxGeometry height="104" width="310" x="915.1023101806641" y="729.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;检验非对称减排、NO滴定与敏感性转化、颗粒物—辐射效应及气象年际变化四类机制。" vertex="1">
-          <mxGeometry height="104" width="310" x="1315.102310180664" y="729.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;区分仅由未来气象驱动的“气象潜势”和包含排放变化的“综合风险”，评估形成路径与空间风险转移。" vertex="1">
-          <mxGeometry height="104" width="310" x="1715.102310180664" y="729.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FBFF;strokeColor=#2F65A7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① MDA8与多定义阈值体系&lt;br&gt;② 站点网格化 + 连通域识别&lt;br&gt;③ 相邻日重叠匹配与事件追踪&lt;br&gt;④ 趋势 / 突变 / 重心 / 季节窗口&lt;br&gt;⑤ 阈值、站点密度和连接规则敏感性" vertex="1">
-          <mxGeometry height="210" width="310" x="515.1023101806641" y="849.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6FCFA;strokeColor=#26877B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① 生命周期曲线 + 连通性 / 网络指标&lt;br&gt;② SOM / Lamb天气分型与阶段合成&lt;br&gt;③ HYSPLIT轨迹、输送通量与源—受体&lt;br&gt;④ WRF-Chem气象扰动、区域减排&lt;br&gt;⑤ PA / SA：削弱生成或输送后的反事实检验" vertex="1">
-          <mxGeometry height="210" width="310" x="915.1023101806641" y="849.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFBF6;strokeColor=#BD6A2E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① 气象归一化 + 天气型条件概率&lt;br&gt;② 卫星FNR与臭氧敏感性演变&lt;br&gt;③ 早/晚期排放 × 早/晚期气象 2×2试验&lt;br&gt;④ 排放、气象和交互项因子分解&lt;br&gt;⑤ Bootstrap区间与多方法相互验证" vertex="1">
-          <mxGeometry height="210" width="310" x="1315.102310180664" y="849.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBF8FE;strokeColor=#7652A5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① AI事件潜势模型 + 跨年代独立验证&lt;br&gt;② CMIP6偏差订正与多模式集合&lt;br&gt;③ 固定历史阈值 + 其他阈值敏感性&lt;br&gt;④ 气候 × 排放情景矩阵模拟&lt;br&gt;⑤ 气候、排放和交互作用不确定性传播" vertex="1">
-          <mxGeometry height="210" width="310" x="1715.102310180664" y="849.3750152587891" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="事件数据库与时空演变图谱" vertex="1">
-          <mxGeometry height="54" width="270" x="535.1023101806641" y="1080.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="三类形成路径与物理概念模型" vertex="1">
-          <mxGeometry height="54" width="270" x="935.1023101806641" y="1080.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="排放—气象—交互贡献证据链" vertex="1">
-          <mxGeometry height="54" width="270" x="1335.102310180664" y="1080.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="未来气象潜势与综合风险图谱" vertex="1">
-          <mxGeometry height="54" width="270" x="1735.102310180664" y="1080.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#D69E2E;strokeWidth=1.5;arcSize=10;" value="" vertex="1">
-          <mxGeometry height="68" width="1440" x="565.1023101806641" y="1180.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C88D1D;strokeColor=#C88D1D;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="全过程稳健性控制" vertex="1">
-          <mxGeometry height="40" width="190" x="585.1023101806641" y="1194.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D69E2E;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="多定义与多阈值　｜　空间分块 / 时间外推验证　｜　观测—模式一致性　｜　多再分析资料与多方法比较　｜　化学机制与情景集合　｜　不确定性边界" vertex="1">
-          <mxGeometry height="40" width="1185" x="800.1023101806641" y="1194.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16324F;gradientColor=#2F65A7;strokeColor=#16324F;strokeWidth=2;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=14;" value="建立“事件对象—空间组织—过程机制—历史归因—未来风险”一体化证据框架，支撑跨区域预警与协同减排" vertex="1">
-          <mxGeometry height="54" width="1140" x="715.1023101806641" y="1285.375015258789" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-44" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-45" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-46" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-47" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-48" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6E9ED2;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-49" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#66AB9F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-50" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#D3945F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-51" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9B7FC0;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-52" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6E9ED2;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-53" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#66AB9F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-54" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#D3945F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-55" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9B7FC0;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-56" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2F65A7;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-57" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#26877B;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-58" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#BD6A2E;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-59" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#7652A5;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-60" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-37" value="事件目录">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-61" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-38" value="路径与机制">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-62" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-39" value="归因约束">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-63" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-64" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-65" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xiyLIqlMgkYHxB2dxlbb-66" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="第 1 页" id="lT4PGamfsy4K56JYTjRX">
     <mxGraphModel dx="1706" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F7F9FC" math="0" shadow="0">
       <root>
@@ -489,6 +283,212 @@
         </mxCell>
         <mxCell id="dBsWuJ58-PWKJ8RtYi_a-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FBF8FE;strokeColor=#9B7FC0;strokeWidth=1.2;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="持续时间变化" vertex="1">
           <mxGeometry height="40" width="120" x="529" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="en4NU3yEJVFzXS-jYDfv" name="第 2 页">
+    <mxGraphModel dx="1990" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=31;fontStyle=1;fontColor=#16324F;" value="大范围臭氧污染：从事件识别到未来风险的技术路线" vertex="1">
+          <mxGeometry height="44" width="1400" x="585.1023101806641" y="301.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#66788A;" value="以事件对象为分析单元，贯通时空演变、形成机制、历史归因与未来情景" vertex="1">
+          <mxGeometry height="28" width="1200" x="685.1023101806641" y="343.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#AAB7C4;strokeWidth=1.5;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="96" width="1440" x="565.1023101806641" y="385.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16324F;strokeColor=#16324F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="多源数据与模型基础" vertex="1">
+          <mxGeometry height="58" width="190" x="585.1023101806641" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="监测网络&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;O₃ · NO₂ · PM₂.₅ · 气象站&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="210" x="800.1023101806641" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="再分析与天气系统&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;ERA5 / MERRA-2 · 环流场&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="210" x="1030.102310180664" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="排放与卫星约束&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;NOₓ / VOCs / PM · HCHO/NO₂&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="225" x="1260.102310180664" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="过程与输送模式&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;WRF-Chem · PA / SA · HYSPLIT&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="225" x="1505.102310180664" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA9B8;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;" value="未来气候与排放情景&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;CMIP6 · SSP · 情景排放清单&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="235" x="1750.102310180664" y="404.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-10" parent="1" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fillColor=#DCE6F0;strokeColor=none;opacity=70;" value="" vertex="1">
+          <mxGeometry height="28" width="1320" x="625.1023101806641" y="485.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#49627A;" value="递进式科学主线　　描述事实　→　解释机制　→　辨识驱动　→　评估未来" vertex="1">
+          <mxGeometry height="26" width="1040" x="745.1023101806641" y="486.37501525878906" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F8FD;strokeColor=#9CB9DB;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
+          <mxGeometry height="640" width="350" x="495.10231018066406" y="515.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2FAF8;strokeColor=#8CC5BB;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
+          <mxGeometry height="640" width="350" x="895.1023101806641" y="515.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8F1;strokeColor=#D9AD82;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
+          <mxGeometry height="640" width="350" x="1295.102310180664" y="515.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F4FC;strokeColor=#B6A0CF;strokeWidth=1.5;arcSize=10;shadow=1;" value="" vertex="1">
+          <mxGeometry height="640" width="350" x="1695.102310180664" y="515.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="01" vertex="1">
+          <mxGeometry height="54" width="54" x="515.1023101806641" y="533.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="02" vertex="1">
+          <mxGeometry height="54" width="54" x="915.1023101806641" y="533.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="03" vertex="1">
+          <mxGeometry height="54" width="54" x="1315.102310180664" y="533.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="04" vertex="1">
+          <mxGeometry height="54" width="54" x="1715.102310180664" y="533.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="事件识别与时空演变" vertex="1">
+          <mxGeometry height="52" width="268" x="557.1023101806641" y="534.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="空间组织与形成机制" vertex="1">
+          <mxGeometry height="52" width="268" x="957.1023101806641" y="534.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="减排背景下的历史归因" vertex="1">
+          <mxGeometry height="52" width="268" x="1357.102310180664" y="534.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="未来气象潜势与综合风险" vertex="1">
+          <mxGeometry height="52" width="268" x="1757.102310180664" y="534.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9F1FB;strokeColor=#6E9ED2;strokeWidth=1.5;fontColor=#1D4776;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;如何客观识别大范围臭氧污染，并解释其频率、持续时间、覆盖范围、强度及季节窗口的变化？" vertex="1">
+          <mxGeometry height="102" width="310" x="515.1023101806641" y="611.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7F5F2;strokeColor=#66AB9F;strokeWidth=1.5;fontColor=#175D54;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;分散的区域污染如何扩展、合并和连接？多尺度天气过程如何通过生成、边界层与输送推动尺度跃迁？" vertex="1">
+          <mxGeometry height="102" width="310" x="915.1023101806641" y="611.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF0E5;strokeColor=#D3945F;strokeWidth=1.5;fontColor=#7D421B;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;排放持续下降期间，大范围污染为何增加？气象、排放及其非线性交互分别贡献多少？" vertex="1">
+          <mxGeometry height="102" width="310" x="1315.102310180664" y="611.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1EAF8;strokeColor=#9B7FC0;strokeWidth=1.5;fontColor=#533A75;fontFamily=Microsoft YaHei;fontSize=16;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;科学问题&lt;/b&gt;&lt;br&gt;未来气候变化与排放演变将如何改变事件频率、主导路径、季节窗口和高风险区？" vertex="1">
+          <mxGeometry height="102" width="310" x="1715.102310180664" y="611.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;构建事件目录；解析时空演变、季节依赖和年际变化；比较污染日数、范围与持续时间是否协同变化。" vertex="1">
+          <mxGeometry height="104" width="310" x="515.1023101806641" y="729.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;重建生成—扩展—合并—消散过程；识别尺度跃迁前兆；检验共同生成、输送连接和生成—输送复合三类路径。" vertex="1">
+          <mxGeometry height="104" width="310" x="915.1023101806641" y="729.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;检验非对称减排、NO滴定与敏感性转化、颗粒物—辐射效应及气象年际变化四类机制。" vertex="1">
+          <mxGeometry height="104" width="310" x="1315.102310180664" y="729.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B5C8DB;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;研究任务&lt;/b&gt;&lt;br&gt;区分仅由未来气象驱动的“气象潜势”和包含排放变化的“综合风险”，评估形成路径与空间风险转移。" vertex="1">
+          <mxGeometry height="104" width="310" x="1715.102310180664" y="729.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FBFF;strokeColor=#2F65A7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① MDA8与多定义阈值体系&lt;br&gt;② 站点网格化 + 连通域识别&lt;br&gt;③ 相邻日重叠匹配与事件追踪&lt;br&gt;④ 趋势 / 突变 / 重心 / 季节窗口&lt;br&gt;⑤ 阈值、站点密度和连接规则敏感性" vertex="1">
+          <mxGeometry height="210" width="310" x="515.1023101806641" y="849.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6FCFA;strokeColor=#26877B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① 生命周期曲线 + 连通性 / 网络指标&lt;br&gt;② SOM / Lamb天气分型与阶段合成&lt;br&gt;③ HYSPLIT轨迹、输送通量与源—受体&lt;br&gt;④ WRF-Chem气象扰动、区域减排&lt;br&gt;⑤ PA / SA：削弱生成或输送后的反事实检验" vertex="1">
+          <mxGeometry height="210" width="310" x="915.1023101806641" y="849.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFBF6;strokeColor=#BD6A2E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① 气象归一化 + 天气型条件概率&lt;br&gt;② 卫星FNR与臭氧敏感性演变&lt;br&gt;③ 早/晚期排放 × 早/晚期气象 2×2试验&lt;br&gt;④ 排放、气象和交互项因子分解&lt;br&gt;⑤ Bootstrap区间与多方法相互验证" vertex="1">
+          <mxGeometry height="210" width="310" x="1315.102310180664" y="849.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBF8FE;strokeColor=#7652A5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;align=left;verticalAlign=middle;spacing=10;arcSize=10;" value="&lt;b&gt;方法工具箱&lt;/b&gt;&lt;br&gt;① AI事件潜势模型 + 跨年代独立验证&lt;br&gt;② CMIP6偏差订正与多模式集合&lt;br&gt;③ 固定历史阈值 + 其他阈值敏感性&lt;br&gt;④ 气候 × 排放情景矩阵模拟&lt;br&gt;⑤ 气候、排放和交互作用不确定性传播" vertex="1">
+          <mxGeometry height="210" width="310" x="1715.102310180664" y="849.3750152587891" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F65A7;strokeColor=#2F65A7;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="事件数据库与时空演变图谱" vertex="1">
+          <mxGeometry height="54" width="270" x="535.1023101806641" y="1080.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#26877B;strokeColor=#26877B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="三类形成路径与物理概念模型" vertex="1">
+          <mxGeometry height="54" width="270" x="935.1023101806641" y="1080.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BD6A2E;strokeColor=#BD6A2E;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="排放—气象—交互贡献证据链" vertex="1">
+          <mxGeometry height="54" width="270" x="1335.102310180664" y="1080.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7652A5;strokeColor=#7652A5;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;arcSize=18;" value="未来气象潜势与综合风险图谱" vertex="1">
+          <mxGeometry height="54" width="270" x="1735.102310180664" y="1080.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#D69E2E;strokeWidth=1.5;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="68" width="1440" x="565.1023101806641" y="1180.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C88D1D;strokeColor=#C88D1D;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="全过程稳健性控制" vertex="1">
+          <mxGeometry height="40" width="190" x="585.1023101806641" y="1194.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D69E2E;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" value="多定义与多阈值　｜　空间分块 / 时间外推验证　｜　观测—模式一致性　｜　多再分析资料与多方法比较　｜　化学机制与情景集合　｜　不确定性边界" vertex="1">
+          <mxGeometry height="40" width="1185" x="800.1023101806641" y="1194.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16324F;gradientColor=#2F65A7;strokeColor=#16324F;strokeWidth=2;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=14;" value="建立“事件对象—空间组织—过程机制—历史归因—未来风险”一体化证据框架，支撑跨区域预警与协同减排" vertex="1">
+          <mxGeometry height="54" width="1140" x="715.1023101806641" y="1285.375015258789" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-44" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-45" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-46" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-47" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B4C0CC;strokeWidth=1.3;dashed=1;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-48" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6E9ED2;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-49" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#66AB9F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-50" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#D3945F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-51" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9B7FC0;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-52" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6E9ED2;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-53" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#66AB9F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-54" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#D3945F;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-55" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9B7FC0;strokeWidth=1.7;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-56" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2F65A7;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-57" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#26877B;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-58" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#BD6A2E;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-59" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#7652A5;strokeWidth=2;endArrow=block;endFill=1;" target="xiyLIqlMgkYHxB2dxlbb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-60" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-37" value="事件目录">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-61" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-38" value="路径与机制">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-62" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#16324F;strokeWidth=2.4;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;labelBackgroundColor=#F7F9FC;" target="xiyLIqlMgkYHxB2dxlbb-39" value="归因约束">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-63" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-64" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-65" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiyLIqlMgkYHxB2dxlbb-66" edge="1" parent="1" source="xiyLIqlMgkYHxB2dxlbb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#708090;strokeWidth=1.2;endArrow=none;" target="xiyLIqlMgkYHxB2dxlbb-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
