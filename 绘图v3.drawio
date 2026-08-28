@@ -411,7 +411,7 @@
         <mxCell id="aI0DNFY7KBmMZAAdFXic-7" edge="1" parent="1" source="aI0DNFY7KBmMZAAdFXic-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6F91B2;" target="aI0DNFY7KBmMZAAdFXic-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aI0DNFY7KBmMZAAdFXic-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;fillColor=#EAF2F8;strokeColor=#5B7FA3;fontColor=#203244;" value="事件属性时空属性" vertex="1">
+        <mxCell id="aI0DNFY7KBmMZAAdFXic-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;fillColor=#BFD8EE;strokeColor=#5B7FA3;fontColor=#1E3E5B;" value="事件属性时空属性" vertex="1">
           <mxGeometry height="60" width="120" x="65.00319152832031" y="327.99501525878907" as="geometry" />
         </mxCell>
         <mxCell id="aI0DNFY7KBmMZAAdFXic-9" edge="1" parent="1" source="aI0DNFY7KBmMZAAdFXic-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6F91B2;" target="aI0DNFY7KBmMZAAdFXic-22" value="">
